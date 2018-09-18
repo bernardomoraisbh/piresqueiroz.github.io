@@ -1,0 +1,13 @@
+# Site navigation links
+
+- title: Inicio
+  url: /
+
+- title: Noticias
+  url: /blog/
+
+- title: Sobre
+  url: /about/
+
+- title: Contato
+  url: /contato/
